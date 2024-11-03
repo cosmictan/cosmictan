@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cosmictan
+- 👋 Hi, I’m Tania
   
 -## 🚀 About Me
 - 🔭 I’m currently working on understanding the link between dust obscuration and star formation rate in galaxies, and also on a fiber positioning system for astronomical instrumentation.
