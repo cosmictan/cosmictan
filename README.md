@@ -1,20 +1,24 @@
 - 👋 Hi, I’m Tania
   
 -## 🚀 About Me
-- 🔭 I’m currently working on understanding the link between dust obscuration and star formation rate in galaxies, and also on a fiber positioning system for astronomical instrumentation.
+- 🔭 I’m currently working on understanding the link between dust obscuration and star formation rate in galaxies, and also on a fibre positioning system for astronomical instrumentation.
 - 🎤 I occasionally give talks and presentations, most recently on stellar companions, which is an exciting collaborative project outside my PhD.
-- 🌱 I’m currently learning: machine learning applications in astronomy, convex optimization, etc.
+- 🌱 I’m currently learning: machine learning applications in astronomy, convex optimization.
 
 ## 🛠️ Skills & Tools
 - **Programming Languages**: Python, Matlab
-- **Tools**: NumPy, Matplotlib, Pandas, etc.
-- **Technologies**:Fiber positioning system, Brain imaging system, telescope detector technology.
+- **Tools**: NumPy, Matplotlib, Pandas, plotly, seaborn, SciPy, etc.
+- **Technologies**:Fibre positioning system, Brain imaging system, CMOS Detector system.
 
 ## 🖥️ Projects & Research
-- **[Paper 1]**: Radio detected galaxies and their obscured properties
-- **[Paper 2]**: Exploring the relationship between dust geometry and star formation rate
-- **[Paper 3]**: Modelling the technical specifications for future multi-object spectroscopy instrumentation
-- **[Paper 4]**: A Comparison of the Rotation Periods of Single and Binary Planet-Hosting and Non-Planet Hosting Stars
+- **[Project 1]**: Radio detected galaxies and their obscured properties
+- **[Project 2]**: Exploring the relationship between dust geometry and star formation rate
+- **[Project 3]**: Enhancing astronomical exploration with the GMT/MANIFEST
+- **[Project 4]**: Modelling the technical specifications for future multi-object spectroscopy instrumentation
+- **[Project 5]**: A Comparison of the Rotation Periods of Single and Binary Planet-Hosting and Non-Planet Hosting Stars
+- **[Project 6]**: Gain and noise estimation of the detector system and understanding the performance of crygenic pre-amplifier
+- **[Project 7]**: Wideband microwave medical diagnostic and therapeutic systems
+
 
 - ## 📫 Get in Touch
 - - **Email**: ummeetania.ahmed@mq.edu.au
