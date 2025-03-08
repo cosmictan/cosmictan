@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building a Python tool for a CMOS detector system in astronomical instrumentation. Core features of the tool consist of reading, processing, and analysing raw CMOS detector data from astronomical observations, simulating CMOS detector performance for a given astronomical setup, and evaluating and comparing CMOS sensor performance across different models for astronomical use.
               
 - 🔭 I’ve been working on modelling the technical specifications of fibre positioning system for astronomical instrumentation.
-- 🔭 My work on the dust obscuration of SF galaxies has been published. **Journal DOI:** [10.1017/pasa.2024.2](https://doi.org/10.1017/pasa.2024.2))
+- 🔭 My work on the dust obscuration of SF galaxies is published. **Journal DOI:** [10.1017/pasa.2024.2](https://doi.org/10.1017/pasa.2024.2))
 - 🔭 My follow up work on understanding the link between dust obscuration and star formation rate in galaxies is currently under review.
 - 🎤 I occasionally give talks and presentations, most recently on stellar companions, which is an exciting collaborative project.
 - 🌱 I’m currently learning: machine learning applications in astronomy, and convex optimisation.
