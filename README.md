@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tania
   
 -## 🚀 About Me
-- 🔭 I’ve currently working on building a Python tool for a CMOS detector system in astronomical instrumentation. Core features of the tool consists of reading, processing, and analysing raw CMOS detector data from astronomical observations, simulating CMOS detector performance for a given astronomical setup, and evaluating and comparing CMOS sensor performance across different models for astronomical use.
+- 🔭 I’ve currently working on building a Python tool for a CMOS detector system in astronomical instrumentation. Core features of the tool consist of reading, processing, and analysing raw CMOS detector data from astronomical observations, simulating CMOS detector performance for a given astronomical setup, and evaluating and comparing CMOS sensor performance across different models for astronomical use.
               
 - 🔭 I’ve been working on understanding the link between dust obscuration and star formation rate in galaxies, and also on modelling the technical specifications of fibre positioning system for astronomical instrumentation.
 - 🎤 I occasionally give talks and presentations, most recently on stellar companions, which is an exciting collaborative project.
