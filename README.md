@@ -16,12 +16,11 @@
 
 
 ## 🖥️ Projects & Research
-- **[Project 1]**: Radio detected galaxies and their obscured properties
-- **[Project 2]**: Exploring the relationship between dust geometry and star formation rate
-- **[Project 3]**: Enhancing astronomical exploration with the GMT/MANIFEST (MANIFEST Science)
-- **[Project 4]**: Modelling the technical specifications for future multi-object spectroscopy instrumentation
-- **[Project 5]**: A comparison of the rotation periods of single and binary planet-hosting and non-planet hosting stars
-- **[Project 6]**: Wideband microwave medical diagnostic and therapeutic systems (brain tumor detection system)
+- **[Project 1]**: Radio detected galaxies and their obscured properties, and exploring the relationship between dust geometry and star formation rate
+- **[Project 2]**: Enhancing astronomical exploration with the GMT/MANIFEST (MANIFEST Science)
+- **[Project 3]**: Modelling the technical specifications for future multi-object spectroscopy instrumentation (e.g. fibre positioning systems)
+- **[Project 4]**: A comparison of the rotation periods of single and binary planet-hosting and non-planet hosting stars
+- **[Project 5]**: Wideband microwave medical diagnostic and therapeutic systems (brain tumor detection and monitoring system)
 
 
 - ## 📫 Get in Touch
