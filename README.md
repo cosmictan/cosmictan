@@ -1,13 +1,16 @@
 - 👋 Hi, I’m Tania
   
 -## 🚀 About Me
-- 🔭 I’m currently working on understanding the link between dust obscuration and star formation rate in galaxies, and also on a fibre positioning system for astronomical instrumentation.
+- 🔭 I’ve currently working on building a Python tool for a CMOS detector system in astronomical instrumentation. Core features of the tool consists of reading, processing, and analysing raw CMOS detector data from astronomical observations, simulating CMOS detector performance for a given astronomical setup, and evaluating and comparing CMOS sensor performance across different models for astronomical use.
+              
+- 🔭 I’ve been working on understanding the link between dust obscuration and star formation rate in galaxies, and also on modelling the technical specifications of fibre positioning system for astronomical instrumentation.
 - 🎤 I occasionally give talks and presentations, most recently on stellar companions, which is an exciting collaborative project.
 - 🌱 I’m currently learning: machine learning applications in astronomy, convex optimization.
 
 ## 🛠️ Skills & Tools
-- **Programming Languages**: Python, Matlab
-- **Tools**: NumPy, Matplotlib, Pandas, plotly, seaborn, SciPy, etc.
+- **Experience in Python (NumPy, SciPy, Pandas, Matplotlib, Astropy, seaborn), and Matlab**
+- **Technical Skills**: Experience in designing, manufacturing, and testing devices and sub-systems using tools including Advanced Design System, 3D Computer Aided Design Software (AutoCAD), High Frequency Electromagnetic Field Simulation (Ansys), 3D Electromagnetic Field Simulation Software (Dassault Systemes Simulation Tools), 3D Design Simulation Tool (SolidWorks, Computer Simulation Technology Studio Suite), Antenna Design Software (Antenna Magus), Prototyping Milling Machine (Protomat), PCB Design Tool (Altium Designer, Circuit Studio), Simulation Software for Engineering Application (COMSOL Multiphysics)
+
 - **Technologies**: Wideband antenna array, Metamaterial, Active and passive devices, Fibre positioning system, Brain imaging system, Telescope detector system
 
 ## 🖥️ Projects & Research
