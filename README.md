@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on building a Python tool for a CMOS detector system in astronomical instrumentation. Core features of the tool consist of reading, processing, and analysing raw CMOS detector data from astronomical observations, simulating CMOS detector performance for a given astronomical setup, and evaluating and comparing CMOS sensor performance across different models for astronomical use.
               
 - 🔭 I’ve been working on modelling the technical specifications of fibre positioning system for astronomical instrumentation.
-- 🔭 My work on the dust obscuration of SF galaxies has been published.
-- My follow up work on understanding the link between dust obscuration and star formation rate in galaxies is currently under review.
+- 🔭 My work on the dust obscuration of SF galaxies has been published. **Journal DOI:** [10.1017/pasa.2024.2](https://doi.org/10.1017/pasa.2024.2))
+- 🔭 My follow up work on understanding the link between dust obscuration and star formation rate in galaxies is currently under review.
 - 🎤 I occasionally give talks and presentations, most recently on stellar companions, which is an exciting collaborative project.
-- 🌱 I’m currently learning: machine learning applications in astronomy, convex optimization.
+- 🌱 I’m currently learning: machine learning applications in astronomy, and convex optimisation.
 
 ## 🛠️ Skills & Tools
 - **Experience in Python (NumPy, SciPy, Pandas, Matplotlib, Astropy, seaborn), and Matlab**
@@ -21,8 +21,7 @@
 - **[Project 3]**: Enhancing astronomical exploration with the GMT/MANIFEST (MANIFEST Science)
 - **[Project 4]**: Modelling the technical specifications for future multi-object spectroscopy instrumentation
 - **[Project 5]**: A comparison of the rotation periods of single and binary planet-hosting and non-planet hosting stars
-- **[Project 6]**: Gain and noise estimation of the detector system and understanding the performance of cryogenic pre-amplifier
-- **[Project 7]**: Wideband microwave medical diagnostic and therapeutic systems (brain tumor detection system)
+- **[Project 6]**: Wideband microwave medical diagnostic and therapeutic systems (brain tumor detection system)
 
 
 - ## 📫 Get in Touch
