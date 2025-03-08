@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: machine learning applications in astronomy, and convex optimisation for enhancing system performance.
               
 - 🔭 I’ve been working on modelling the technical specifications of fibre positioning system for astronomical instrumentation.
-- 🔭 My work on the dust obscuration of SF galaxies is published. **Journal DOI:** [10.1017/pasa.2024.2](https://doi.org/10.1017/pasa.2024.2)). My follow up work on understanding the link between dust obscuration and star formation rate in galaxies is currently under review.
+- 🔭 My work on the dust obscuration of SF galaxies is published. **Journal DOI:** [10.1017/pasa.2024.2](https://doi.org/10.1017/pasa.2024.2)). My follow up work is on understanding the link between dust obscuration and star formation rate in galaxies.
 - 🎤 I occasionally give talks and presentations, most recently on stellar companions, which is an exciting collaborative project.
 
 
